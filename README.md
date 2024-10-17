@@ -16,7 +16,10 @@ In this project, I designed and developed an **interactive Excel dashboard** to 
 ## Tools Used
 - **Excel**: Data cleaning, processing, pivot tables, slicers, and dashboard creation.
 
+## Dashboard Link
+You can access the interactive dashboard [here](https://1drv.ms/x/c/9227fe9ead915f47/ESCQmBHW9IBHvWOBu1le8yUBQ5hP8_9kxJzFXAwe3mTv8A?e=F9D0GJ).
+
 ## Getting Started
 - Clone the repository:  
    ```bash
-   git clone https://github.com/YonInsights//Road_Accident.git
+   git clone https://github.com/YonInsights/Road_Accident.git
